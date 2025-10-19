@@ -2,4 +2,4 @@ Note: This project uses another project of mine [permutations](https://github.co
 
 in russian
 
-Примечание. Этот проект использует другой мой проект [permutations](https://github.com/slovesnov/permutations)
+Примечание. Этот проект использует другой мой проект [permutations](https://github.com/slovesnov/permutations).
